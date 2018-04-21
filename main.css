@@ -1,0 +1,19 @@
+#hero{
+    height: 750px;
+    padding-top: 20%;
+    background-image: url("boat-hero.jpg");
+}
+
+#hero h1 {
+    text-align: center;
+}
+
+#hero h3 {
+    text-align: center;
+}
+
+.btn{
+    margin-left: 40%;
+    margin-top: 40%;
+}
+
